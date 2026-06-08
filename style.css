@@ -76,6 +76,10 @@ body {
     display: block;
 }
 
+.aba-conteudo {
+    display: none;
+}
+
 .aba-conteudo-titulo-principal {
     font-size: 28px;
     text-align: center;
@@ -86,6 +90,7 @@ body {
     color: var(--verde);
     text-transform: uppercase;
 }
+
 
 @media screen and (min-width: 768px) {
     .botoes {
